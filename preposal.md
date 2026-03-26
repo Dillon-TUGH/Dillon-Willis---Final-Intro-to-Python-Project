@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-1. A bullet hell featuring a one long bossfight or three shorter boss fights 
+1. A bullet hell featuring a one long bossfight or three shorter boss fights using Pico-8 
 
 2. A choose your own adventure game using pygame 
 
