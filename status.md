@@ -30,4 +30,6 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What problems, if any, have you encountered?
 
-- One problem I've ran into so far is I can't seem find a way to install numpy onto vscode, which is a crucial part of my project. If I'm not able to find a way to install, I'll have to find an alternative work around for my project.  
+- One problem I've ran into so far is I can't seem find a way to install numpy onto vscode, which is a crucial part of my project. If I'm not able to find a way to install, I'll have to find an alternative work around for my project.
+
+- UPDATE - I have solved the problem regarding numpy. I ran into an issue due to applying pip and not pip3 when trying to install numpy  
